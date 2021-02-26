@@ -10,4 +10,16 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="puppy_list">Puppy List</string>
+    <string name="puppy_detail">Puppy Details</string>
+    <string name="puppy_name">Name: </string>
+    <string name="puppy_size">Size: </string>
+    <string name="puppy_gender">Gender: </string>
+    <string name="puppy_age">Age: </string>
+    <string name="puppy_color">Color: </string>
+    <string name="puppy_owner">Owner: </string>
+    <string name="puppy_location">Location: </string>
+    <string name="puppy_health">Health: </string>
+    <string name="puppy_about">About: </string>
+    <string name="adopt_me">Adopt Me</string>
 </resources>
